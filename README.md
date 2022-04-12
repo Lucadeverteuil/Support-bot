@@ -81,7 +81,7 @@ Nova-ChatBot is able to hold a conversation of over 30 dialogues in order to tal
 ## Installation Guide
 
 To get a local copy up and running on your local device. You must have the Java Development Kit installed. Due to the size limit on GitHub, we are unable to upload a certain jar and the exectuable JAR file for NOVA. Here is the link to a zip folder of the completed project, which contains the runnable NOVA.jar and the necessary JARS for the toolkits to make the program run (one of which was too big to add to github): 
-[Project Zip](https://drive.google.com/file/d/1p0LmTivvN7Fl0fskFVi7iL6okCTdjte7/view?usp=sharing)
+[Project Zip](https://drive.google.com/drive/folders/1dEy8bMCkDBM5gqvkkwdmoXUNeEwpF6Oy?usp=sharing)
 
 
 <p align="right">(<a href="#top">back to top</a>)</p>
@@ -89,7 +89,7 @@ To get a local copy up and running on your local device. You must have the Java 
 <!-- NEW FEATURES -->
 
 ## New Features
-With Nova Chat Bot I have added two new Apis to the project, Jsoup and Jwiki. Jsoup has been added to the project to be able to find meaningful quotes from famous people to help relate to the user The quotes were gotten from "https://www.keepinspiring.me/inspirational-quotes/". 
+With Nova Chat Bot I have added two new Apis to the project, [Jsoup](https://jsoup.org/download) and [Jwiki](https://github.com/viralvaghela/Jwiki/blob/master/README.md). Jsoup has been added to the project to be able to find meaningful quotes from famous people to help relate to the user The quotes were gotten from "https://www.keepinspiring.me/inspirational-quotes/". 
 ![synonymsinaction](./Jscoup.jpg)
 ![synonymsinaction](./jscoupCode.png)
 
