@@ -72,6 +72,8 @@ Nova-ChatBot is able to hold a conversation of over 30 dialogues in order to tal
 4. NOVA is able to detect user emotions (Angry, Happy, Sad, Scared).
 5. NOVA has various responses 
 6. NOVA System is robust for future implementations. 
+7. NOVA system is able to find Wikipedia definitions
+8. NOVA system is able to find insperatinal quotes from websites online
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
