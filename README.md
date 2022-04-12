@@ -90,15 +90,17 @@ To get a local copy up and running on your local device. You must have the Java 
 
 ## New Features
 With Nova Chat Bot I have added two new Apis to the project, Jsoup and Jwiki. Jsoup has been added to the project to be able to find meaningful quotes from famous people to help relate to the user The quotes were gotten from "https://www.keepinspiring.me/inspirational-quotes/". 
+![synonymsinaction](./Jscoup.png)
+![synonymsinaction](./jscoupCode.png)
 
 
-ADDD PHOTO HERE OF QUOETS ADDED TO THE SYSTEM
 
 
 The secound Api, Jwiki was implement to help users who dont know coping mechanisims that Nova Chat bot segests are from wikipedia. And example is if users dont know what meditation or spike ball is the bot will send them the definition on the wikipida page
 
 
-ADDDD PHOTO HERE OF THE SUGGESTIONS OF WIKIEPIDA PAGES 
+![synonymsinaction](./Jwiki.png)
+![synonymsinaction](./jwikiCode.png)
 
 <!-- LICENSE -->
 
