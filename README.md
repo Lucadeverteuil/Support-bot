@@ -1,4 +1,4 @@
-# Nova suport Bot by LucadeVerteuil and special thansk to Jan Dillion
+# Nova support Bot by LucadeVerteuil and special thansk to Jan Dillion
 
 
 
