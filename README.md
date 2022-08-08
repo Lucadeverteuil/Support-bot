@@ -88,21 +88,6 @@ To get a local copy up and running on your local device. You must have the Java 
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
-<!-- NEW FEATURES -->
-
-## New Features
-With Nova Chat Bot I have added two new Apis to the project, [Jsoup](https://jsoup.org/download) and [Jwiki](https://github.com/viralvaghela/Jwiki/blob/master/README.md). Jsoup has been added to the project to be able to find meaningful quotes from famous people to help relate to the user The quotes were gotten from "https://www.keepinspiring.me/inspirational-quotes/". 
-![synonymsinaction](./Jscoup.jpg)
-![synonymsinaction](./jscoupCode.png)
-
-
-
-
-The secound Api, Jwiki was implement to help users who dont know coping mechanisims that Nova Chat bot segests are from wikipedia. And example is if users dont know what meditation or spike ball is the bot will send them the definition on the wikipida page
-
-
-![synonymsinaction](./Jwiki.png)
-![synonymsinaction](./jwikiCode.png)
 
 <!-- LICENSE -->
 
