@@ -1,9 +1,5 @@
-# 310_individual_project_LucadeVerteuil
+# Nova suport Bot by LucadeVerteuil and special thansk to Jan Dillion
 
-
-
-# Assignment_3
-COSC-310 Group 8's repository
 
 
 <!--  PROJECT TITLE -->
@@ -28,9 +24,6 @@ COSC-310 Group 8's repository
     </li>
     <li>
       <a href="#Installation Guide">Installation Guide</a>
-    </li>
-    <li>
-      <a href="#New Features">New Features</a>
     </li>
     <li><a href="#license">License</a></li>
   </ol>
