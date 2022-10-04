@@ -20,6 +20,7 @@
         <li><a href="#built-with">Built With</a></li>
         <li><a href="#user-requirements">User Requirements</a></li>
         <li><a href="#system-requirements">System Requirements Specifications</a></li>
+        <li><a href="#cool-features"> Cool Features</a></li>
       </ul>
     </li>
     <li>
@@ -39,7 +40,7 @@ The NOVA chatbot is an emotional support agent that helps the user deal with the
 <p align="right">(<a href="#top">back to top</a>)</p>
 
 
-
+### Built With
 
 
 * [Java](https://www.java.com/en/)
@@ -81,6 +82,8 @@ Furthermore, the use of the WordNet toolkit (through RiTa API) generates the syn
 
 We implemented a Sentiment Analysis Toolkit from Stanford that checks if the user's feedback is positive, negative, or neutral based on a sentence. Initially, we used a number rating but the use of this toolkit allows for a more genuine review of our program and makes the bot feel more intelligent.
 ![postagger](synonymsinaction.png)
+
+<p align="right">(<a href="#top">back to top</a>)</p>
 
 <!-- INSTALLATION GUIDE -->
 
