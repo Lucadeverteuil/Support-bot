@@ -1,4 +1,4 @@
-# Nova support Bot by LucadeVerteuil and special thansk to Jan Dillion
+# Nova support Bot by LucadeVerteuil and special thanks to Jan Dillion
 
 
 
@@ -40,7 +40,7 @@ The NOVA chatbot is an emotional support agent that helps the user deal with the
 
 
 
-### Built With
+
 
 * [Java](https://www.java.com/en/)
 * [Stanford POS Tagger Toolkit](https://nlp.stanford.edu/software/tagger.shtml)
@@ -51,7 +51,7 @@ The NOVA chatbot is an emotional support agent that helps the user deal with the
 * [Jsoup](https://github.com/fastily/jwiki)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
-
+### Support bot
 
 ### User Requirements
 
@@ -71,7 +71,16 @@ Nova-ChatBot is able to hold a conversation of over 30 dialogues in order to tal
 8. NOVA system is able to find insperatinal quotes from websites online
 
 <p align="right">(<a href="#top">back to top</a>)</p>
+### Cool Features
 
+In addtion, we have split the canned responses of NOVA into intial and followup responses for each emotion. This gives a more authentic feel to the conversation and makes the responses seem more in line with when the user initially says what emotion they're feeling and then when they expand on it.
+![postagger](postagger.png)
+
+Furthermore, the use of the WordNet toolkit (through RiTa API) generates the synonyms for the emotions, and these are cross-referenced with the preset text files to see if the user has said an emotion using a synonym or similar word to simply mad, happy, sad, or fear. Note how "afraid" is not in the fear.txt but still works due to the synonym checker.
+![postagger](postagger.png)
+
+We implemented a Sentiment Analysis Toolkit from Stanford that checks if the user's feedback is positive, negative, or neutral based on a sentence. Initially, we used a number rating but the use of this toolkit allows for a more genuine review of our program and makes the bot feel more intelligent.
+![postagger](postagger.png)
 
 <!-- INSTALLATION GUIDE -->
 
